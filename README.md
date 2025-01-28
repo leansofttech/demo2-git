@@ -12,3 +12,12 @@ to display the remote repository > git remote -v
 5.4- now type >git push origin master  
 to avoid using "origin master" everytime you push ,
 type instead >>git push -u origin master (u for upstream)
+
+#create a feature branch and merge request
+
+> git checkout -b <new banch or feature name> // -B will reset if the same name or new one if otherwise
+> git diff <feature name> //will compare change with the main branch
+> git merge <feature name> //to merge with local chages but if preferable to create merge request on github first  
+> After git add and git commit use the following
+> git push -u origin <feature name> // to push your feature change into github, -u allow to skip everything after u later.  
+> On github create a merge request and assign a reviewer for the the changes you want to be merge into main branch
