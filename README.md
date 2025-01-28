@@ -21,3 +21,6 @@ type instead >>git push -u origin master (u for upstream)
 > After git add and git commit use the following
 > git push -u origin <feature name> // to push your feature change into github, -u allow to skip everything after u later.  
 > On github create a merge request and assign a reviewer for the the changes you want to be merge into main branch
+
+#how to add reviewers and assignees to github?
+#how to do continuous integration in github?
