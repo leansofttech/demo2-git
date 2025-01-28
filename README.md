@@ -1,3 +1,3 @@
 # demo git 2
 
-demo 2 git
+demo 2 git update
