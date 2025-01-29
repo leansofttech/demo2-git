@@ -24,3 +24,7 @@ type instead >>git push -u origin master (u for upstream)
 
 #how to add reviewers and assignees to github?
 #how to do continuous integration in github?
+
+#create a resolve conflict section
+#create unstaged and revert section
+#create a fork section
